@@ -1,0 +1,16 @@
+column,description
+date,Month (YYYY-MM-DD)
+department,Department name
+current_headcount,Headcount at month start
+projects,Active projects in month
+attrition_rate,Monthly attrition rate (0-1)
+productivity_index,Relative productivity (1.0 baseline)
+required_headcount,Model target: estimated headcount needed
+employee_id,Unique employee id
+tenure_years,Years at company
+remote_ratio,Share of time remote (0-1)
+sick_days_last_quarter,Sick days in last quarter
+training_hours_last_quarter,Training hours completed in last quarter
+kpi_score,Performance KPI score (0-100)
+overtime_hours_last_quarter,Overtime hours in last quarter
+salary_usd,Monthly salary in USD
