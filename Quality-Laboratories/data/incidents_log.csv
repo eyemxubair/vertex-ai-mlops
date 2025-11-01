@@ -1,0 +1,11 @@
+timestamp,station_id,incident_type,severity,notes
+2025-09-14T03:00:00,WTP-01,High Turbidity,Low,Auto-generated for demo; verify with lab
+2025-08-03T09:00:00,WTP-01,High Turbidity,Low,Auto-generated for demo; verify with lab
+2025-08-07T18:00:00,RIVER-02,Chemical Spill (suspected),Low,Auto-generated for demo; verify with lab
+2025-08-28T06:00:00,WTP-01,Chemical Spill (suspected),Medium,Auto-generated for demo; verify with lab
+2025-09-15T12:00:00,RIVER-02,Sensor Fault,Low,Auto-generated for demo; verify with lab
+2025-08-15T14:00:00,WTP-01,Low Chlorine,Low,Auto-generated for demo; verify with lab
+2025-09-11T07:00:00,RIVER-02,Low Chlorine,Medium,Auto-generated for demo; verify with lab
+2025-08-01T15:00:00,BOTTLING-03,E. coli Detection,Low,Auto-generated for demo; verify with lab
+2025-08-28T23:00:00,RIVER-02,High Turbidity,Low,Auto-generated for demo; verify with lab
+2025-09-24T09:00:00,RIVER-02,E. coli Detection,Low,Auto-generated for demo; verify with lab
