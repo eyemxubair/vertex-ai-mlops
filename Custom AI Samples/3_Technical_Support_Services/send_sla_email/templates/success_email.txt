@@ -1,0 +1,15 @@
+Subject: Your request {{complaint_id}} is on track ✅
+
+Hi {{customer_name}},
+
+Good news! Your request (ID: {{complaint_id}}) for "{{label}}" is progressing within our service level targets.
+No action is needed from your side at the moment. We will update you once it’s fully resolved.
+
+Summary
+- Channel: {{channel}}
+- Priority: {{priority}}
+- First response (mins): {{first_response_minutes}}
+- SLA for priority: {{sla_minutes}} minutes
+
+Best regards,
+Customer Care Team

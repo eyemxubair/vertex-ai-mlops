@@ -1,0 +1,15 @@
+Subject: We’re sorry about the delay on your request {{complaint_id}}
+
+Hi {{customer_name}},
+
+We apologize that we did not meet our service level agreement for your request (ID: {{complaint_id}}) related to "{{label}}".
+Our team is actively working to resolve this. As a token of apology, we’re prioritizing your case and will follow up shortly.
+
+Summary
+- Channel: {{channel}}
+- Priority: {{priority}}
+- First response (mins): {{first_response_minutes}}
+- SLA for priority: {{sla_minutes}} minutes
+
+Thank you for your patience,
+Customer Care Team
