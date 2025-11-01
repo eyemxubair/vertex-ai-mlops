@@ -1,0 +1,61 @@
+interaction_id,agent,duration_sec,asr_confidence,transcript,derived_intent,outcome
+I0001,Bilal,443,0.93,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled
+I0002,Ayesha,216,0.85,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,escalated
+I0003,Bilal,387,0.98,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,callback_scheduled
+I0004,Ayesha,577,0.96,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,escalated
+I0005,Zain,158,0.9,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,resolved
+I0006,Ayesha,148,0.86,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,escalated
+I0007,Hira,618,0.98,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,resolved
+I0008,Hira,242,0.95,AGENT: We can reschedule installation. CUSTOMER: Please move it to Friday.,installation_status,resolved
+I0009,Zain,698,0.88,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,resolved
+I0010,Hira,307,0.91,AGENT: We can reschedule installation. CUSTOMER: Please move it to Friday.,installation_status,resolved
+I0011,Bilal,858,0.88,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,resolved
+I0012,Zain,180,0.98,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,resolved
+I0013,Zain,645,0.95,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,escalated
+I0014,Ayesha,223,0.87,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,resolved
+I0015,Zain,723,0.93,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,escalated
+I0016,Hira,451,0.9,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled
+I0017,Zain,612,0.9,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled
+I0018,Bilal,813,0.97,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,callback_scheduled
+I0019,Ayesha,280,0.98,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,resolved
+I0020,Zain,887,0.87,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled
+I0021,Hira,142,0.94,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled
+I0022,Zain,359,0.92,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,escalated
+I0023,Bilal,459,0.88,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,resolved
+I0024,Hira,686,0.97,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,callback_scheduled
+I0025,Zain,548,0.91,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,resolved
+I0026,Zain,704,0.97,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled
+I0027,Zain,622,0.87,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,callback_scheduled
+I0028,Ayesha,277,0.99,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,resolved
+I0029,Hira,413,0.87,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,resolved
+I0030,Hira,387,0.99,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,resolved
+I0031,Hira,416,0.91,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,resolved
+I0032,Zain,267,0.99,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,resolved
+I0033,Zain,643,0.87,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,resolved
+I0034,Zain,310,0.9,AGENT: We can reschedule installation. CUSTOMER: Please move it to Friday.,installation_status,resolved
+I0035,Bilal,403,0.93,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,resolved
+I0036,Bilal,848,0.87,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,escalated
+I0037,Ayesha,743,0.95,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled
+I0038,Bilal,260,0.94,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,escalated
+I0039,Zain,327,0.85,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,escalated
+I0040,Hira,858,0.98,AGENT: We can reschedule installation. CUSTOMER: Please move it to Friday.,installation_status,escalated
+I0041,Zain,408,0.97,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,callback_scheduled
+I0042,Ayesha,539,0.98,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled
+I0043,Zain,374,0.88,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,callback_scheduled
+I0044,Bilal,839,0.9,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,escalated
+I0045,Zain,652,0.98,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,escalated
+I0046,Ayesha,485,0.95,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled
+I0047,Ayesha,418,0.97,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,escalated
+I0048,Hira,645,0.85,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,escalated
+I0049,Ayesha,369,0.99,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,resolved
+I0050,Bilal,291,0.86,AGENT: We can reschedule installation. CUSTOMER: Please move it to Friday.,installation_status,callback_scheduled
+I0051,Ayesha,139,0.86,AGENT: We can reschedule installation. CUSTOMER: Please move it to Friday.,installation_status,escalated
+I0052,Zain,138,0.97,"AGENT: I see duplicate charges. CUSTOMER: Yes, I need a refund.",refund_request,escalated
+I0053,Hira,655,0.88,AGENT: We can reschedule installation. CUSTOMER: Please move it to Friday.,installation_status,callback_scheduled
+I0054,Zain,216,0.95,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,resolved
+I0055,Ayesha,596,0.92,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,escalated
+I0056,Ayesha,244,0.87,AGENT: Let's reset your password. CUSTOMER: I never receive the OTP.,account_help,resolved
+I0057,Bilal,352,0.87,AGENT: We can reschedule installation. CUSTOMER: Please move it to Friday.,installation_status,escalated
+I0058,Hira,288,0.98,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,resolved
+I0059,Hira,731,0.97,"AGENT: You want to cancel? CUSTOMER: Yes, effective this month.",cancel_subscription,escalated
+I0060,Hira,173,0.96,"AGENT: Hello, how can I help you today? CUSTOMER: My internet is down since morning.",report_outage,callback_scheduled

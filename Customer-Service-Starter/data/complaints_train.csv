@@ -1,0 +1,181 @@
+complaint_id,channel,timestamp,customer_id,text,label,sentiment,priority,status
+1000,web,2025-09-01T09:00:00,C95319,Speed is far below what I pay for.,slow_speed,negative,high,open
+1001,chat,2025-09-01T09:30:00,C14914,Technician never showed up for the installation.,installation,negative,medium,open
+1002,web,2025-09-01T10:00:00,C17747,My discount was not applied to the invoice.,billing_issue,neutral,low,open
+1003,email,2025-09-01T10:30:00,C85642,I was charged after cancellation request.,cancellation,negative,low,open
+1004,phone,2025-09-01T11:00:00,C64937,Technician never showed up for the installation.,installation,negative,medium,in_progress
+1005,chat,2025-09-01T11:30:00,C23507,Where can I find the installation guide?,installation,positive,medium,open
+1006,email,2025-09-01T12:00:00,C83972,My discount was not applied to the invoice.,billing_issue,negative,medium,in_progress
+1007,web,2025-09-01T12:30:00,C86750,Two-factor code never arrives.,account_access,positive,medium,open
+1008,chat,2025-09-01T13:00:00,C20728,Frequent disconnections every hour.,service_outage,negative,medium,resolved
+1009,phone,2025-09-01T13:30:00,C89817,How do I return the router and cancel?,cancellation,positive,low,open
+1010,chat,2025-09-01T14:00:00,C74089,What are the data limits on the basic plan?,general_query,neutral,low,in_progress
+1011,phone,2025-09-01T14:30:00,C54580,Is there a family bundle available?,general_query,positive,medium,in_progress
+1012,email,2025-09-01T15:00:00,C22267,What are the data limits on the basic plan?,general_query,neutral,medium,in_progress
+1013,phone,2025-09-01T15:30:00,C94820,My discount was not applied to the invoice.,billing_issue,negative,high,open
+1014,phone,2025-09-01T16:00:00,C12957,How do I return the router and cancel?,cancellation,positive,medium,in_progress
+1015,chat,2025-09-01T16:30:00,C47674,I cannot log in; password reset link doesn't work.,account_access,negative,medium,open
+1016,email,2025-09-01T17:00:00,C31805,What are the data limits on the basic plan?,general_query,neutral,medium,open
+1017,phone,2025-09-01T17:30:00,C64433,No signal at all; when will it be restored?,service_outage,positive,high,open
+1018,email,2025-09-01T18:00:00,C33097,Internet has been down since morning in my area.,service_outage,negative,high,open
+1019,chat,2025-09-01T18:30:00,C44438,Is there a family bundle available?,general_query,neutral,low,open
+1020,phone,2025-09-01T19:00:00,C26448,Downloads are painfully slow lately.,slow_speed,neutral,medium,in_progress
+1021,email,2025-09-01T19:30:00,C69853,I was charged after cancellation request.,cancellation,positive,high,resolved
+1022,web,2025-09-01T20:00:00,C62175,Is there a family bundle available?,general_query,neutral,medium,in_progress
+1023,chat,2025-09-01T20:30:00,C18827,I cannot log in; password reset link doesn't work.,account_access,positive,medium,open
+1024,email,2025-09-01T21:00:00,C10030,Technician never showed up for the installation.,installation,positive,low,open
+1025,email,2025-09-01T21:30:00,C19216,Downloads are painfully slow lately.,slow_speed,positive,high,open
+1026,phone,2025-09-01T22:00:00,C72147,Streaming keeps buffering despite full bars.,slow_speed,negative,high,escalated
+1027,web,2025-09-01T22:30:00,C50875,Two-factor code never arrives.,account_access,negative,low,open
+1028,chat,2025-09-01T23:00:00,C77676,Streaming keeps buffering despite full bars.,slow_speed,negative,urgent,in_progress
+1029,email,2025-09-01T23:30:00,C79220,Frequent disconnections every hour.,service_outage,negative,high,open
+1030,phone,2025-09-02T00:00:00,C31894,What are the data limits on the basic plan?,general_query,neutral,high,in_progress
+1031,phone,2025-09-02T00:30:00,C93419,Is there a family bundle available?,general_query,negative,high,resolved
+1032,chat,2025-09-02T01:00:00,C62518,Do you offer student discounts?,general_query,positive,high,open
+1033,email,2025-09-02T01:30:00,C13661,Two-factor code never arrives.,account_access,neutral,medium,open
+1034,web,2025-09-02T02:00:00,C55812,I need to reschedule the router setup.,installation,neutral,low,open
+1035,phone,2025-09-02T02:30:00,C36787,I cannot log in; password reset link doesn't work.,account_access,negative,urgent,in_progress
+1036,phone,2025-09-02T03:00:00,C94296,Why is there an extra fee this month?,billing_issue,negative,high,resolved
+1037,chat,2025-09-02T03:30:00,C72656,Is there a family bundle available?,general_query,negative,medium,in_progress
+1038,web,2025-09-02T04:00:00,C70707,My discount was not applied to the invoice.,billing_issue,negative,urgent,resolved
+1039,email,2025-09-02T04:30:00,C29811,Internet has been down since morning in my area.,service_outage,negative,medium,in_progress
+1040,web,2025-09-02T05:00:00,C96149,Where can I find the installation guide?,installation,neutral,low,in_progress
+1041,email,2025-09-02T05:30:00,C79020,I was charged twice on my last bill.,billing_issue,neutral,low,escalated
+1042,email,2025-09-02T06:00:00,C43008,Internet has been down since morning in my area.,service_outage,negative,medium,resolved
+1043,web,2025-09-02T06:30:00,C27180,Streaming keeps buffering despite full bars.,slow_speed,negative,high,resolved
+1044,web,2025-09-02T07:00:00,C75752,I was charged after cancellation request.,cancellation,negative,low,in_progress
+1045,chat,2025-09-02T07:30:00,C89764,What are the data limits on the basic plan?,general_query,negative,high,open
+1046,email,2025-09-02T08:00:00,C82938,No signal at all; when will it be restored?,service_outage,negative,high,in_progress
+1047,email,2025-09-02T08:30:00,C42570,I cannot log in; password reset link doesn't work.,account_access,negative,low,open
+1048,email,2025-09-02T09:00:00,C18305,Account locked after trying to sign in.,account_access,negative,high,in_progress
+1049,phone,2025-09-02T09:30:00,C69289,Technician never showed up for the installation.,installation,positive,medium,in_progress
+1050,phone,2025-09-02T10:00:00,C83336,Frequent disconnections every hour.,service_outage,positive,medium,open
+1051,web,2025-09-02T10:30:00,C67949,I cannot log in; password reset link doesn't work.,account_access,negative,high,open
+1052,phone,2025-09-02T11:00:00,C26036,Frequent disconnections every hour.,service_outage,positive,low,resolved
+1053,chat,2025-09-02T11:30:00,C43175,How do I return the router and cancel?,cancellation,positive,urgent,open
+1054,web,2025-09-02T12:00:00,C31337,Why is there an extra fee this month?,billing_issue,positive,high,open
+1055,web,2025-09-02T12:30:00,C54448,Account locked after trying to sign in.,account_access,negative,medium,open
+1056,phone,2025-09-02T13:00:00,C82620,Speed is far below what I pay for.,slow_speed,negative,high,open
+1057,phone,2025-09-02T13:30:00,C77143,Where can I find the installation guide?,installation,negative,low,resolved
+1058,email,2025-09-02T14:00:00,C44808,Internet has been down since morning in my area.,service_outage,negative,urgent,open
+1059,web,2025-09-02T14:30:00,C98601,Do you offer student discounts?,general_query,neutral,medium,in_progress
+1060,web,2025-09-02T15:00:00,C52866,Where can I find the installation guide?,installation,negative,medium,resolved
+1061,email,2025-09-02T15:30:00,C45248,No signal at all; when will it be restored?,service_outage,positive,high,resolved
+1062,chat,2025-09-02T16:00:00,C18732,My discount was not applied to the invoice.,billing_issue,negative,low,open
+1063,phone,2025-09-02T16:30:00,C91487,I need to reschedule the router setup.,installation,negative,low,resolved
+1064,phone,2025-09-02T17:00:00,C16603,I was charged twice on my last bill.,billing_issue,negative,urgent,in_progress
+1065,phone,2025-09-02T17:30:00,C68417,Technician never showed up for the installation.,installation,positive,high,open
+1066,phone,2025-09-02T18:00:00,C14843,Do you offer student discounts?,general_query,negative,low,in_progress
+1067,web,2025-09-02T18:30:00,C42201,Frequent disconnections every hour.,service_outage,positive,low,resolved
+1068,web,2025-09-02T19:00:00,C81553,Account locked after trying to sign in.,account_access,neutral,medium,in_progress
+1069,chat,2025-09-02T19:30:00,C54918,I'd like to cancel my plan this month.,cancellation,negative,high,resolved
+1070,phone,2025-09-02T20:00:00,C17128,No signal at all; when will it be restored?,service_outage,neutral,low,in_progress
+1071,chat,2025-09-02T20:30:00,C17261,Streaming keeps buffering despite full bars.,slow_speed,negative,high,resolved
+1072,chat,2025-09-02T21:00:00,C48411,How do I return the router and cancel?,cancellation,negative,low,open
+1073,phone,2025-09-02T21:30:00,C53113,Why is there an extra fee this month?,billing_issue,positive,medium,open
+1074,phone,2025-09-02T22:00:00,C33980,Speed is far below what I pay for.,slow_speed,negative,medium,in_progress
+1075,chat,2025-09-02T22:30:00,C42529,Where can I find the installation guide?,installation,positive,high,open
+1076,chat,2025-09-02T23:00:00,C62364,Do you offer student discounts?,general_query,positive,low,open
+1077,chat,2025-09-02T23:30:00,C21073,Downloads are painfully slow lately.,slow_speed,negative,medium,resolved
+1078,web,2025-09-03T00:00:00,C52747,I was charged after cancellation request.,cancellation,neutral,medium,open
+1079,chat,2025-09-03T00:30:00,C15739,Where can I find the installation guide?,installation,positive,high,in_progress
+1080,chat,2025-09-03T01:00:00,C78649,I was charged after cancellation request.,cancellation,neutral,medium,resolved
+1081,chat,2025-09-03T01:30:00,C21153,My discount was not applied to the invoice.,billing_issue,negative,low,open
+1082,web,2025-09-03T02:00:00,C83207,Why is there an extra fee this month?,billing_issue,negative,low,in_progress
+1083,phone,2025-09-03T02:30:00,C10434,No signal at all; when will it be restored?,service_outage,negative,low,resolved
+1084,email,2025-09-03T03:00:00,C72109,Technician never showed up for the installation.,installation,neutral,high,resolved
+1085,chat,2025-09-03T03:30:00,C40243,Frequent disconnections every hour.,service_outage,neutral,urgent,in_progress
+1086,web,2025-09-03T04:00:00,C99613,I cannot log in; password reset link doesn't work.,account_access,negative,low,in_progress
+1087,chat,2025-09-03T04:30:00,C53486,Internet has been down since morning in my area.,service_outage,negative,high,open
+1088,email,2025-09-03T05:00:00,C73231,Technician never showed up for the installation.,installation,negative,medium,escalated
+1089,chat,2025-09-03T05:30:00,C98566,My discount was not applied to the invoice.,billing_issue,negative,high,open
+1090,email,2025-09-03T06:00:00,C81968,Two-factor code never arrives.,account_access,negative,urgent,resolved
+1091,web,2025-09-03T06:30:00,C20022,Why is there an extra fee this month?,billing_issue,neutral,urgent,open
+1092,chat,2025-09-03T07:00:00,C37618,Streaming keeps buffering despite full bars.,slow_speed,negative,low,resolved
+1093,chat,2025-09-03T07:30:00,C89084,Streaming keeps buffering despite full bars.,slow_speed,neutral,medium,resolved
+1094,chat,2025-09-03T08:00:00,C75259,How do I return the router and cancel?,cancellation,positive,medium,open
+1095,web,2025-09-03T08:30:00,C63139,Why is there an extra fee this month?,billing_issue,negative,low,open
+1096,phone,2025-09-03T09:00:00,C10228,Speed is far below what I pay for.,slow_speed,negative,medium,open
+1097,email,2025-09-03T09:30:00,C47988,Frequent disconnections every hour.,service_outage,negative,low,open
+1098,email,2025-09-03T10:00:00,C57278,Is there a family bundle available?,general_query,neutral,high,resolved
+1099,email,2025-09-03T10:30:00,C96766,Speed is far below what I pay for.,slow_speed,negative,urgent,open
+1100,phone,2025-09-03T11:00:00,C34883,Streaming keeps buffering despite full bars.,slow_speed,neutral,high,open
+1101,web,2025-09-03T11:30:00,C82633,My discount was not applied to the invoice.,billing_issue,negative,high,open
+1102,web,2025-09-03T12:00:00,C90598,How do I return the router and cancel?,cancellation,neutral,high,open
+1103,chat,2025-09-03T12:30:00,C32382,My discount was not applied to the invoice.,billing_issue,negative,medium,open
+1104,phone,2025-09-03T13:00:00,C63242,I was charged after cancellation request.,cancellation,neutral,medium,in_progress
+1105,chat,2025-09-03T13:30:00,C94306,I cannot log in; password reset link doesn't work.,account_access,negative,medium,resolved
+1106,chat,2025-09-03T14:00:00,C69373,Account locked after trying to sign in.,account_access,positive,urgent,open
+1107,chat,2025-09-03T14:30:00,C41992,Frequent disconnections every hour.,service_outage,negative,medium,open
+1108,phone,2025-09-03T15:00:00,C84660,No signal at all; when will it be restored?,service_outage,negative,low,resolved
+1109,chat,2025-09-03T15:30:00,C59396,Two-factor code never arrives.,account_access,negative,high,in_progress
+1110,chat,2025-09-03T16:00:00,C75981,I need to reschedule the router setup.,installation,positive,high,resolved
+1111,phone,2025-09-03T16:30:00,C42565,Internet has been down since morning in my area.,service_outage,negative,high,open
+1112,chat,2025-09-03T17:00:00,C14226,Speed is far below what I pay for.,slow_speed,negative,high,resolved
+1113,email,2025-09-03T17:30:00,C19586,I need to reschedule the router setup.,installation,neutral,urgent,resolved
+1114,web,2025-09-03T18:00:00,C42566,I need to reschedule the router setup.,installation,negative,medium,open
+1115,web,2025-09-03T18:30:00,C21141,I'd like to cancel my plan this month.,cancellation,negative,low,resolved
+1116,email,2025-09-03T19:00:00,C94607,Frequent disconnections every hour.,service_outage,neutral,urgent,in_progress
+1117,web,2025-09-03T19:30:00,C24697,Where can I find the installation guide?,installation,negative,low,in_progress
+1118,web,2025-09-03T20:00:00,C44194,Technician never showed up for the installation.,installation,negative,high,open
+1119,web,2025-09-03T20:30:00,C46517,I need to reschedule the router setup.,installation,neutral,high,resolved
+1120,chat,2025-09-03T21:00:00,C81696,Account locked after trying to sign in.,account_access,negative,urgent,resolved
+1121,email,2025-09-03T21:30:00,C35443,Speed is far below what I pay for.,slow_speed,negative,high,open
+1122,web,2025-09-03T22:00:00,C58525,Speed is far below what I pay for.,slow_speed,negative,low,open
+1123,web,2025-09-03T22:30:00,C35962,Two-factor code never arrives.,account_access,negative,medium,resolved
+1124,web,2025-09-03T23:00:00,C36268,I was charged twice on my last bill.,billing_issue,negative,high,open
+1125,phone,2025-09-03T23:30:00,C24287,No signal at all; when will it be restored?,service_outage,positive,medium,open
+1126,web,2025-09-04T00:00:00,C97201,No signal at all; when will it be restored?,service_outage,negative,medium,resolved
+1127,email,2025-09-04T00:30:00,C88135,I was charged twice on my last bill.,billing_issue,negative,low,open
+1128,phone,2025-09-04T01:00:00,C24838,Two-factor code never arrives.,account_access,positive,urgent,open
+1129,web,2025-09-04T01:30:00,C14180,Frequent disconnections every hour.,service_outage,negative,high,resolved
+1130,chat,2025-09-04T02:00:00,C24281,Streaming keeps buffering despite full bars.,slow_speed,negative,medium,open
+1131,chat,2025-09-04T02:30:00,C59824,My discount was not applied to the invoice.,billing_issue,negative,high,resolved
+1132,email,2025-09-04T03:00:00,C72057,I cannot log in; password reset link doesn't work.,account_access,negative,medium,open
+1133,web,2025-09-04T03:30:00,C13969,Streaming keeps buffering despite full bars.,slow_speed,neutral,medium,in_progress
+1134,web,2025-09-04T04:00:00,C14568,I cannot log in; password reset link doesn't work.,account_access,negative,high,open
+1135,email,2025-09-04T04:30:00,C89379,Frequent disconnections every hour.,service_outage,negative,medium,escalated
+1136,phone,2025-09-04T05:00:00,C51482,Technician never showed up for the installation.,installation,neutral,medium,resolved
+1137,email,2025-09-04T05:30:00,C13179,Where can I find the installation guide?,installation,negative,low,resolved
+1138,phone,2025-09-04T06:00:00,C66352,Two-factor code never arrives.,account_access,neutral,low,in_progress
+1139,phone,2025-09-04T06:30:00,C29833,My discount was not applied to the invoice.,billing_issue,neutral,medium,open
+1140,email,2025-09-04T07:00:00,C77093,Downloads are painfully slow lately.,slow_speed,negative,high,open
+1141,email,2025-09-04T07:30:00,C73136,My discount was not applied to the invoice.,billing_issue,negative,medium,escalated
+1142,phone,2025-09-04T08:00:00,C91867,I was charged twice on my last bill.,billing_issue,negative,low,in_progress
+1143,chat,2025-09-04T08:30:00,C40696,How do I return the router and cancel?,cancellation,negative,medium,resolved
+1144,email,2025-09-04T09:00:00,C48525,Frequent disconnections every hour.,service_outage,negative,medium,open
+1145,chat,2025-09-04T09:30:00,C67592,How do I return the router and cancel?,cancellation,negative,medium,open
+1146,phone,2025-09-04T10:00:00,C18494,Technician never showed up for the installation.,installation,neutral,medium,open
+1147,email,2025-09-04T10:30:00,C95632,Technician never showed up for the installation.,installation,neutral,urgent,open
+1148,web,2025-09-04T11:00:00,C59004,I cannot log in; password reset link doesn't work.,account_access,negative,medium,open
+1149,chat,2025-09-04T11:30:00,C19845,Frequent disconnections every hour.,service_outage,negative,high,open
+1150,email,2025-09-04T12:00:00,C23864,Downloads are painfully slow lately.,slow_speed,neutral,high,open
+1151,phone,2025-09-04T12:30:00,C28529,Why is there an extra fee this month?,billing_issue,negative,urgent,open
+1152,chat,2025-09-04T13:00:00,C11491,I was charged after cancellation request.,cancellation,neutral,medium,open
+1153,email,2025-09-04T13:30:00,C36661,I need to reschedule the router setup.,installation,negative,high,in_progress
+1154,email,2025-09-04T14:00:00,C61812,Why is there an extra fee this month?,billing_issue,neutral,low,in_progress
+1155,web,2025-09-04T14:30:00,C45542,I'd like to cancel my plan this month.,cancellation,negative,medium,open
+1156,phone,2025-09-04T15:00:00,C64274,Why is there an extra fee this month?,billing_issue,negative,high,escalated
+1157,chat,2025-09-04T15:30:00,C61213,Downloads are painfully slow lately.,slow_speed,neutral,medium,open
+1158,email,2025-09-04T16:00:00,C21860,No signal at all; when will it be restored?,service_outage,negative,high,in_progress
+1159,email,2025-09-04T16:30:00,C16775,Internet has been down since morning in my area.,service_outage,negative,high,resolved
+1160,phone,2025-09-04T17:00:00,C76120,My discount was not applied to the invoice.,billing_issue,negative,medium,open
+1161,email,2025-09-04T17:30:00,C60296,Internet has been down since morning in my area.,service_outage,negative,high,escalated
+1162,chat,2025-09-04T18:00:00,C15701,No signal at all; when will it be restored?,service_outage,positive,medium,open
+1163,email,2025-09-04T18:30:00,C91309,How do I return the router and cancel?,cancellation,neutral,high,in_progress
+1164,web,2025-09-04T19:00:00,C90573,Do you offer student discounts?,general_query,negative,high,open
+1165,web,2025-09-04T19:30:00,C77881,Internet has been down since morning in my area.,service_outage,negative,medium,open
+1166,email,2025-09-04T20:00:00,C83707,I'd like to cancel my plan this month.,cancellation,neutral,high,in_progress
+1167,web,2025-09-04T20:30:00,C88580,Speed is far below what I pay for.,slow_speed,negative,high,resolved
+1168,phone,2025-09-04T21:00:00,C86365,How do I return the router and cancel?,cancellation,negative,medium,open
+1169,chat,2025-09-04T21:30:00,C13063,I need to reschedule the router setup.,installation,negative,high,in_progress
+1170,web,2025-09-04T22:00:00,C33536,No signal at all; when will it be restored?,service_outage,neutral,medium,open
+1171,phone,2025-09-04T22:30:00,C22021,Streaming keeps buffering despite full bars.,slow_speed,neutral,medium,in_progress
+1172,chat,2025-09-04T23:00:00,C20779,My discount was not applied to the invoice.,billing_issue,positive,medium,resolved
+1173,web,2025-09-04T23:30:00,C95556,I was charged twice on my last bill.,billing_issue,positive,low,resolved
+1174,email,2025-09-05T00:00:00,C35389,Where can I find the installation guide?,installation,negative,urgent,in_progress
+1175,chat,2025-09-05T00:30:00,C18587,Do you offer student discounts?,general_query,neutral,high,open
+1176,phone,2025-09-05T01:00:00,C69821,Downloads are painfully slow lately.,slow_speed,negative,medium,resolved
+1177,phone,2025-09-05T01:30:00,C90722,Frequent disconnections every hour.,service_outage,negative,medium,open
+1178,chat,2025-09-05T02:00:00,C93436,No signal at all; when will it be restored?,service_outage,positive,high,resolved
+1179,email,2025-09-05T02:30:00,C79562,No signal at all; when will it be restored?,service_outage,negative,high,escalated

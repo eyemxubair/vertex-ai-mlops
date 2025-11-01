@@ -1,0 +1,161 @@
+survey_id,interaction_id,channel,rating_1_5,nps,comment,sentiment
+S0001,8855,phone,4,1,Had to repeat details multiple times.,positive
+S0002,9194,phone,4,5,"Great support, quick fix.",positive
+S0003,8539,phone,5,2,Had to repeat details multiple times.,positive
+S0004,8355,chat,5,3,"Great support, quick fix.",positive
+S0005,9520,phone,4,4,Agent was helpful and resolved the issue.,positive
+S0006,8270,phone,4,10,Had to repeat details multiple times.,positive
+S0007,7007,phone,4,2,Problem still exists. Not satisfied.,positive
+S0008,9523,phone,4,8,"Great support, quick fix.",positive
+S0009,7195,email,2,9,Problem still exists. Not satisfied.,negative
+S0010,7091,phone,1,5,Had to repeat details multiple times.,negative
+S0011,7435,web,4,3,Had to repeat details multiple times.,positive
+S0012,9390,phone,3,3,Problem still exists. Not satisfied.,neutral
+S0013,9555,email,5,2,Problem still exists. Not satisfied.,positive
+S0014,7997,email,4,1,"Great support, quick fix.",positive
+S0015,9614,phone,2,6,Average experience.,negative
+S0016,7047,web,1,5,Had to repeat details multiple times.,negative
+S0017,9465,chat,5,3,"Great support, quick fix.",positive
+S0018,7001,web,1,0,Had to repeat details multiple times.,negative
+S0019,7760,email,2,1,Agent was helpful and resolved the issue.,negative
+S0020,9509,web,4,2,Problem still exists. Not satisfied.,positive
+S0021,7817,web,4,10,Had to repeat details multiple times.,positive
+S0022,9511,phone,2,1,Average experience.,negative
+S0023,9563,email,1,8,"Great support, quick fix.",negative
+S0024,8536,web,5,1,"Great support, quick fix.",positive
+S0025,7718,chat,2,4,Agent was helpful and resolved the issue.,negative
+S0026,9637,email,1,4,Average experience.,negative
+S0027,8089,phone,4,10,"Great support, quick fix.",positive
+S0028,8210,email,4,1,Problem still exists. Not satisfied.,positive
+S0029,7695,chat,3,3,Problem still exists. Not satisfied.,neutral
+S0030,8338,chat,2,5,"Great support, quick fix.",negative
+S0031,8554,web,5,7,Had to repeat details multiple times.,positive
+S0032,9173,chat,4,6,Agent was helpful and resolved the issue.,positive
+S0033,9336,email,5,6,Problem still exists. Not satisfied.,positive
+S0034,9315,email,5,0,Problem still exists. Not satisfied.,positive
+S0035,7458,chat,2,5,Problem still exists. Not satisfied.,negative
+S0036,9870,email,1,2,Agent was helpful and resolved the issue.,negative
+S0037,9854,phone,1,1,Agent was helpful and resolved the issue.,negative
+S0038,7816,email,5,10,Had to repeat details multiple times.,positive
+S0039,9913,chat,5,3,Agent was helpful and resolved the issue.,positive
+S0040,7832,email,2,10,Agent was helpful and resolved the issue.,negative
+S0041,9586,chat,4,1,"Great support, quick fix.",positive
+S0042,7400,phone,5,4,Problem still exists. Not satisfied.,positive
+S0043,8378,phone,3,5,Agent was helpful and resolved the issue.,neutral
+S0044,8157,web,1,5,Average experience.,negative
+S0045,8178,email,4,6,Agent was helpful and resolved the issue.,positive
+S0046,8787,web,4,5,Agent was helpful and resolved the issue.,positive
+S0047,9886,email,1,3,Had to repeat details multiple times.,negative
+S0048,9353,email,5,6,Problem still exists. Not satisfied.,positive
+S0049,9144,phone,2,0,Agent was helpful and resolved the issue.,negative
+S0050,9010,phone,1,7,Problem still exists. Not satisfied.,negative
+S0051,9110,chat,3,4,Problem still exists. Not satisfied.,neutral
+S0052,9865,email,2,1,Problem still exists. Not satisfied.,negative
+S0053,9008,phone,5,1,Had to repeat details multiple times.,positive
+S0054,8456,web,1,1,"Great support, quick fix.",negative
+S0055,9645,phone,1,4,Problem still exists. Not satisfied.,negative
+S0056,8753,web,5,2,Had to repeat details multiple times.,positive
+S0057,9583,email,2,2,"Great support, quick fix.",negative
+S0058,8427,web,4,2,Had to repeat details multiple times.,positive
+S0059,9711,web,4,2,Average experience.,positive
+S0060,8797,chat,4,9,Average experience.,positive
+S0061,7516,chat,3,8,Problem still exists. Not satisfied.,neutral
+S0062,8095,chat,3,2,Had to repeat details multiple times.,neutral
+S0063,8014,phone,4,8,Had to repeat details multiple times.,positive
+S0064,7659,email,2,4,Problem still exists. Not satisfied.,negative
+S0065,7674,web,5,3,Agent was helpful and resolved the issue.,positive
+S0066,7618,web,5,4,Average experience.,positive
+S0067,8121,chat,2,4,Agent was helpful and resolved the issue.,negative
+S0068,8590,web,3,6,Agent was helpful and resolved the issue.,neutral
+S0069,9840,email,2,7,Average experience.,negative
+S0070,7580,chat,3,0,"Great support, quick fix.",neutral
+S0071,8761,web,4,10,Had to repeat details multiple times.,positive
+S0072,7936,chat,4,3,Had to repeat details multiple times.,positive
+S0073,9627,phone,2,5,"Great support, quick fix.",negative
+S0074,9573,web,4,3,"Great support, quick fix.",positive
+S0075,9921,web,4,4,Problem still exists. Not satisfied.,positive
+S0076,8977,chat,3,6,Had to repeat details multiple times.,neutral
+S0077,9680,web,3,6,Agent was helpful and resolved the issue.,neutral
+S0078,7435,chat,1,3,Had to repeat details multiple times.,negative
+S0079,9933,phone,5,8,Problem still exists. Not satisfied.,positive
+S0080,7414,chat,5,8,"Great support, quick fix.",positive
+S0081,9938,phone,3,10,Agent was helpful and resolved the issue.,neutral
+S0082,9136,chat,3,3,"Great support, quick fix.",neutral
+S0083,8607,phone,4,9,Agent was helpful and resolved the issue.,positive
+S0084,9611,web,1,6,Average experience.,negative
+S0085,7251,phone,1,6,"Great support, quick fix.",negative
+S0086,9376,web,3,4,Problem still exists. Not satisfied.,neutral
+S0087,9158,chat,5,7,"Great support, quick fix.",positive
+S0088,7673,chat,2,10,Agent was helpful and resolved the issue.,negative
+S0089,8921,phone,4,2,Problem still exists. Not satisfied.,positive
+S0090,9728,phone,4,7,"Great support, quick fix.",positive
+S0091,9245,chat,4,5,"Great support, quick fix.",positive
+S0092,8095,chat,4,6,Average experience.,positive
+S0093,8972,chat,1,5,Average experience.,negative
+S0094,9680,web,3,7,"Great support, quick fix.",neutral
+S0095,9553,phone,4,2,Average experience.,positive
+S0096,8577,chat,1,5,Had to repeat details multiple times.,negative
+S0097,9173,email,5,0,Had to repeat details multiple times.,positive
+S0098,7859,email,5,4,Average experience.,positive
+S0099,9369,web,2,2,Problem still exists. Not satisfied.,negative
+S0100,8419,chat,5,6,Problem still exists. Not satisfied.,positive
+S0101,9496,phone,5,1,Had to repeat details multiple times.,positive
+S0102,7808,email,3,8,Problem still exists. Not satisfied.,neutral
+S0103,8796,email,4,8,Agent was helpful and resolved the issue.,positive
+S0104,8083,web,3,7,Problem still exists. Not satisfied.,neutral
+S0105,9282,web,1,2,"Great support, quick fix.",negative
+S0106,8009,email,3,9,Had to repeat details multiple times.,neutral
+S0107,7656,web,5,9,"Great support, quick fix.",positive
+S0108,9725,web,3,5,"Great support, quick fix.",neutral
+S0109,8715,phone,5,2,Agent was helpful and resolved the issue.,positive
+S0110,9605,email,4,9,Agent was helpful and resolved the issue.,positive
+S0111,9795,web,4,1,Average experience.,positive
+S0112,8985,chat,5,0,Problem still exists. Not satisfied.,positive
+S0113,9941,email,3,5,Problem still exists. Not satisfied.,neutral
+S0114,9699,chat,3,8,"Great support, quick fix.",neutral
+S0115,8163,email,3,4,"Great support, quick fix.",neutral
+S0116,8184,phone,3,6,"Great support, quick fix.",neutral
+S0117,9063,chat,5,5,Had to repeat details multiple times.,positive
+S0118,9681,chat,3,5,Agent was helpful and resolved the issue.,neutral
+S0119,8298,email,4,9,Problem still exists. Not satisfied.,positive
+S0120,7164,email,3,6,Had to repeat details multiple times.,neutral
+S0121,8632,chat,3,0,Agent was helpful and resolved the issue.,neutral
+S0122,8945,web,4,8,Agent was helpful and resolved the issue.,positive
+S0123,9525,email,2,10,Had to repeat details multiple times.,negative
+S0124,7870,chat,1,10,"Great support, quick fix.",negative
+S0125,7415,email,4,6,Agent was helpful and resolved the issue.,positive
+S0126,9685,phone,1,4,Problem still exists. Not satisfied.,negative
+S0127,8237,email,2,5,Agent was helpful and resolved the issue.,negative
+S0128,8764,web,4,0,Had to repeat details multiple times.,positive
+S0129,9324,web,4,6,Agent was helpful and resolved the issue.,positive
+S0130,8828,chat,1,9,"Great support, quick fix.",negative
+S0131,8947,email,5,1,Had to repeat details multiple times.,positive
+S0132,9639,email,3,10,Problem still exists. Not satisfied.,neutral
+S0133,8748,chat,1,1,Agent was helpful and resolved the issue.,negative
+S0134,7497,chat,2,4,Agent was helpful and resolved the issue.,negative
+S0135,8846,phone,4,0,Problem still exists. Not satisfied.,positive
+S0136,9922,phone,4,1,Problem still exists. Not satisfied.,positive
+S0137,9574,phone,4,7,"Great support, quick fix.",positive
+S0138,7215,email,4,0,Agent was helpful and resolved the issue.,positive
+S0139,9665,web,4,1,Had to repeat details multiple times.,positive
+S0140,8274,web,3,2,Had to repeat details multiple times.,neutral
+S0141,9494,web,1,9,Average experience.,negative
+S0142,8924,phone,4,1,Problem still exists. Not satisfied.,positive
+S0143,9641,web,2,7,"Great support, quick fix.",negative
+S0144,8854,phone,5,5,Had to repeat details multiple times.,positive
+S0145,8146,email,1,5,Had to repeat details multiple times.,negative
+S0146,7618,web,4,9,Average experience.,positive
+S0147,8008,chat,3,9,"Great support, quick fix.",neutral
+S0148,8848,phone,3,5,Agent was helpful and resolved the issue.,neutral
+S0149,8097,phone,3,0,Had to repeat details multiple times.,neutral
+S0150,7576,phone,5,2,Had to repeat details multiple times.,positive
+S0151,9243,email,4,5,"Great support, quick fix.",positive
+S0152,9211,chat,4,3,"Great support, quick fix.",positive
+S0153,8267,chat,4,7,"Great support, quick fix.",positive
+S0154,8043,web,4,6,Agent was helpful and resolved the issue.,positive
+S0155,9214,chat,1,1,Average experience.,negative
+S0156,8630,phone,4,8,Average experience.,positive
+S0157,8952,chat,4,3,Problem still exists. Not satisfied.,positive
+S0158,7787,phone,1,5,Average experience.,negative
+S0159,8648,email,5,3,Problem still exists. Not satisfied.,positive
+S0160,9020,web,3,5,Agent was helpful and resolved the issue.,neutral

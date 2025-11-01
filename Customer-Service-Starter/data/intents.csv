@@ -1,0 +1,15 @@
+utterance,intent
+I'd like to cancel my subscription,cancel_subscription
+How do I close my account?,cancel_subscription
+I need a refund for last month,refund_request
+I was charged twice,refund_request
+My internet is down,report_outage
+The app keeps crashing,technical_issue
+Reset my password,account_help
+I can't log in to my account,account_help
+What plans do you have?,plans_pricing
+Do you offer student discounts?,plans_pricing
+Talk to a human,handoff_to_agent
+I want to speak with support,handoff_to_agent
+Where is my technician?,installation_status
+Reschedule my installation,installation_status
