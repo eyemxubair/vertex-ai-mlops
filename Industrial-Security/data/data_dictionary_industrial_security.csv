@@ -1,0 +1,16 @@
+column,description
+meter_id,Unique smart meter id
+lat,Latitude
+lon,Longitude
+aerial_anomaly_score,"0-1 score from aerial imagery anomaly model (e.g., YOLO/SegNet over orthomosaic)"
+tamper_events_60d,Count of tamper events in last 60 days
+outages_60d,Count of outages in last 60 days
+meter_age_years,Age of meter in years
+phase_imbalance_pct,Estimated phase imbalance (%) from AMI/PMU features
+label_illegal_connection,"Ground-truth: 1 if illegal connection confirmed, else 0"
+label_faulty_meter,"Ground-truth: 1 if meter faulty confirmed, else 0"
+kwh_mean_60d,Mean daily kWh over last 60 days (NaNs filled with series mean)
+kwh_std_60d,Std dev of daily kWh over last 60 days (NaNs filled)
+kwh_max_60d,Max daily kWh over last 60 days (NaNs filled)
+kwh_min_60d,Min daily kWh over last 60 days (NaNs filled)
+missing_days,Number of missing daily readings in the last 60 days
