@@ -1,0 +1,401 @@
+ticket_id,created_at,team,priority,category,sla_hours,resolution_hours,met_sla
+1001,2025-05-05,Applications,Low,Incident,12,15.7,0
+1002,2025-02-27,Network,Medium,Service Request,24,12.8,1
+1003,2025-03-11,FieldOps,High,Incident,12,22.1,0
+1004,2025-02-22,Applications,Low,Incident,12,12.5,0
+1005,2025-03-07,Network,High,Problem,12,8.5,1
+1006,2025-02-27,FieldOps,Low,Incident,8,18.3,0
+1007,2025-03-23,Applications,High,Service Request,48,8.2,1
+1008,2025-03-28,Applications,High,Incident,12,9.4,1
+1009,2025-01-02,FieldOps,Medium,Service Request,4,15.9,0
+1010,2025-05-30,Applications,Medium,Problem,4,11.5,0
+1011,2025-02-06,Security,Medium,Incident,48,22.2,1
+1012,2025-05-28,FieldOps,High,Service Request,8,23.0,0
+1013,2025-04-13,Applications,Critical,Incident,24,20.9,1
+1014,2025-01-24,Network,High,Service Request,4,8.2,0
+1015,2025-04-22,Network,Medium,Incident,48,12.1,1
+1016,2025-03-06,Security,Medium,Problem,24,16.4,1
+1017,2025-05-09,FieldOps,High,Incident,12,21.2,0
+1018,2025-04-27,Applications,Medium,Incident,4,10.9,0
+1019,2025-04-26,Applications,High,Problem,8,20.0,0
+1020,2025-04-15,Network,Medium,Service Request,12,10.3,1
+1021,2025-01-03,Security,Low,Incident,12,16.4,0
+1022,2025-02-15,Network,Medium,Incident,8,15.8,0
+1023,2025-02-24,Network,Medium,Incident,4,9.4,0
+1024,2025-03-16,Security,Low,Incident,12,9.7,1
+1025,2025-02-14,FieldOps,Low,Incident,12,15.5,0
+1026,2025-06-03,Applications,Medium,Service Request,8,6.2,1
+1027,2025-03-18,FieldOps,Low,Incident,4,18.8,0
+1028,2025-01-24,Database,Low,Service Request,48,12.1,1
+1029,2025-02-04,Database,Medium,Service Request,12,13.7,0
+1030,2025-01-24,Database,Critical,Incident,24,26.3,0
+1031,2025-01-28,Security,Medium,Incident,12,20.1,0
+1032,2025-01-16,Network,Critical,Incident,4,18.0,0
+1033,2025-02-28,FieldOps,Medium,Incident,12,21.1,0
+1034,2025-05-24,Applications,Low,Service Request,12,8.0,1
+1035,2025-01-15,Database,Medium,Incident,24,18.5,1
+1036,2025-01-11,FieldOps,Medium,Service Request,24,8.9,1
+1037,2025-03-20,Database,Medium,Incident,8,17.3,0
+1038,2025-04-25,Database,Low,Incident,48,10.4,1
+1039,2025-03-09,Applications,Medium,Incident,12,6.3,1
+1040,2025-02-12,Security,Low,Incident,48,15.4,1
+1041,2025-03-10,Network,Medium,Incident,48,11.8,1
+1042,2025-05-21,Security,Low,Incident,8,5.4,1
+1043,2025-05-18,FieldOps,Medium,Problem,12,2.4,1
+1044,2025-03-16,Security,Medium,Service Request,12,15.8,0
+1045,2025-04-13,FieldOps,Low,Incident,24,21.4,1
+1046,2025-02-10,FieldOps,Medium,Incident,12,17.6,0
+1047,2025-06-27,Network,Medium,Incident,48,8.8,1
+1048,2025-02-28,Applications,High,Incident,24,23.6,1
+1049,2025-02-08,Network,High,Incident,8,20.4,0
+1050,2025-01-03,Security,Medium,Incident,8,25.3,0
+1051,2025-01-07,FieldOps,Medium,Incident,24,19.9,1
+1052,2025-02-18,Database,Low,Incident,8,16.3,0
+1053,2025-01-26,Database,Low,Incident,24,15.5,1
+1054,2025-06-10,FieldOps,Low,Incident,12,10.5,1
+1055,2025-04-11,Network,Medium,Service Request,12,4.1,1
+1056,2025-06-25,Applications,Low,Incident,4,8.7,0
+1057,2025-03-20,Network,Low,Incident,24,14.4,1
+1058,2025-01-02,FieldOps,Medium,Incident,8,13.2,0
+1059,2025-05-07,FieldOps,Medium,Problem,24,14.7,1
+1060,2025-06-09,Applications,Medium,Problem,12,7.0,1
+1061,2025-05-12,Security,Low,Service Request,24,10.9,1
+1062,2025-01-20,Security,Medium,Incident,12,16.7,0
+1063,2025-04-27,Applications,Medium,Incident,4,15.8,0
+1064,2025-06-13,Security,Medium,Service Request,24,13.7,1
+1065,2025-02-01,Database,Low,Incident,4,9.5,0
+1066,2025-01-28,Security,Medium,Incident,12,22.5,0
+1067,2025-03-18,Security,High,Problem,8,23.7,0
+1068,2025-01-01,Security,Low,Incident,24,16.5,1
+1069,2025-02-25,Database,Critical,Incident,48,34.8,1
+1070,2025-02-04,Security,Medium,Incident,12,13.4,0
+1071,2025-04-22,Database,Low,Incident,12,11.8,1
+1072,2025-01-30,Applications,Medium,Incident,24,16.1,1
+1073,2025-02-23,Network,Low,Service Request,4,6.5,0
+1074,2025-02-05,Applications,Low,Service Request,48,12.0,1
+1075,2025-03-21,Network,Medium,Incident,8,12.1,0
+1076,2025-02-27,Applications,High,Problem,48,34.8,1
+1077,2025-03-24,Network,High,Incident,24,15.6,1
+1078,2025-03-06,Network,Medium,Incident,24,17.6,1
+1079,2025-03-10,FieldOps,Low,Service Request,24,17.3,1
+1080,2025-05-08,Network,Medium,Service Request,12,6.4,1
+1081,2025-02-20,Network,Medium,Service Request,12,4.6,1
+1082,2025-01-22,FieldOps,High,Problem,4,21.4,0
+1083,2025-04-17,Security,High,Service Request,24,31.6,0
+1084,2025-04-19,Security,High,Problem,24,23.4,1
+1085,2025-04-26,FieldOps,Medium,Incident,24,16.1,1
+1086,2025-04-11,Database,Medium,Service Request,12,12.8,0
+1087,2025-04-10,Network,Low,Change,4,4.7,0
+1088,2025-06-13,Network,Critical,Service Request,12,11.1,1
+1089,2025-03-09,FieldOps,Low,Incident,24,4.6,1
+1090,2025-02-05,FieldOps,Low,Incident,8,7.3,1
+1091,2025-06-29,Database,Low,Incident,8,9.5,0
+1092,2025-06-27,Security,High,Incident,24,27.5,0
+1093,2025-06-18,Applications,Medium,Change,12,10.9,1
+1094,2025-05-26,Security,Medium,Incident,12,18.5,0
+1095,2025-01-22,Network,Critical,Incident,12,19.0,0
+1096,2025-03-07,FieldOps,High,Problem,24,23.4,1
+1097,2025-01-21,Database,Low,Incident,8,7.0,1
+1098,2025-04-10,Security,Low,Incident,24,19.9,1
+1099,2025-05-08,Database,High,Incident,4,7.9,0
+1100,2025-02-13,Security,High,Service Request,24,17.2,1
+1101,2025-04-13,Network,Medium,Incident,12,11.9,1
+1102,2025-02-16,Applications,Medium,Change,12,17.2,0
+1103,2025-02-08,Database,Low,Incident,24,18.6,1
+1104,2025-01-29,Database,High,Incident,24,23.5,1
+1105,2025-02-23,Applications,Medium,Incident,8,20.7,0
+1106,2025-03-31,Database,Medium,Service Request,24,9.6,1
+1107,2025-03-26,Database,Low,Incident,8,17.7,0
+1108,2025-01-17,Security,High,Incident,48,29.6,1
+1109,2025-03-21,Security,Medium,Incident,24,1.0,1
+1110,2025-06-08,Applications,Low,Service Request,12,10.0,1
+1111,2025-03-14,Network,Medium,Incident,24,14.9,1
+1112,2025-02-18,Database,Medium,Service Request,12,11.4,1
+1113,2025-04-11,Network,Medium,Service Request,8,6.8,1
+1114,2025-01-02,Applications,Medium,Incident,48,24.4,1
+1115,2025-06-25,Applications,Medium,Incident,24,13.8,1
+1116,2025-05-22,Security,High,Incident,12,22.2,0
+1117,2025-02-28,Database,Low,Incident,12,5.7,1
+1118,2025-04-07,FieldOps,Low,Incident,12,9.8,1
+1119,2025-04-09,Applications,Low,Incident,48,7.0,1
+1120,2025-04-13,Database,Medium,Incident,8,20.6,0
+1121,2025-06-28,Network,Medium,Incident,12,14.4,0
+1122,2025-01-02,Security,High,Incident,12,16.2,0
+1123,2025-02-10,Network,Medium,Incident,12,14.7,0
+1124,2025-05-03,Applications,Medium,Service Request,12,11.9,1
+1125,2025-03-23,Applications,Critical,Problem,8,21.7,0
+1126,2025-05-24,Network,Low,Problem,8,10.9,0
+1127,2025-05-12,Applications,High,Incident,8,19.3,0
+1128,2025-05-20,Database,Medium,Incident,48,16.1,1
+1129,2025-01-29,Applications,Medium,Incident,8,15.4,0
+1130,2025-05-15,Security,Medium,Incident,24,25.2,0
+1131,2025-01-14,Database,Medium,Incident,24,18.1,1
+1132,2025-01-12,FieldOps,Low,Service Request,24,11.2,1
+1133,2025-04-09,Applications,Medium,Incident,24,12.7,1
+1134,2025-05-13,Applications,Medium,Incident,8,19.7,0
+1135,2025-03-22,Security,High,Change,8,21.9,0
+1136,2025-04-16,Security,Medium,Incident,12,14.3,0
+1137,2025-02-01,Network,High,Incident,8,11.2,0
+1138,2025-03-15,Network,Medium,Incident,24,13.3,1
+1139,2025-06-20,Network,Medium,Incident,24,7.9,1
+1140,2025-03-22,Security,High,Service Request,24,31.8,0
+1141,2025-03-10,Network,Medium,Incident,4,7.0,0
+1142,2025-02-14,Network,Critical,Incident,48,28.6,1
+1143,2025-04-16,FieldOps,Medium,Service Request,8,13.8,0
+1144,2025-05-17,Network,Medium,Service Request,12,6.8,1
+1145,2025-06-26,Applications,Low,Change,12,11.8,1
+1146,2025-06-10,Security,Medium,Service Request,24,10.4,1
+1147,2025-04-10,Database,Low,Incident,12,12.2,0
+1148,2025-05-26,FieldOps,Medium,Incident,48,12.0,1
+1149,2025-01-09,Security,Low,Incident,48,19.3,1
+1150,2025-03-03,Security,Low,Incident,24,14.8,1
+1151,2025-01-29,Applications,Low,Service Request,4,5.8,0
+1152,2025-05-05,Network,Low,Service Request,24,7.6,1
+1153,2025-04-24,Applications,Low,Incident,24,14.1,1
+1154,2025-06-02,Network,High,Incident,8,22.7,0
+1155,2025-05-23,Network,High,Incident,8,14.7,0
+1156,2025-05-14,Security,Medium,Problem,8,9.8,0
+1157,2025-04-30,Network,High,Incident,4,21.3,0
+1158,2025-06-19,FieldOps,Low,Service Request,12,16.6,0
+1159,2025-06-06,FieldOps,High,Service Request,48,29.7,1
+1160,2025-03-20,FieldOps,Low,Problem,12,14.5,0
+1161,2025-04-03,Security,Low,Service Request,12,11.1,1
+1162,2025-01-04,Applications,Medium,Service Request,48,15.9,1
+1163,2025-03-23,Database,Low,Incident,8,13.6,0
+1164,2025-06-26,Network,Medium,Incident,24,9.2,1
+1165,2025-06-21,Database,Medium,Incident,12,15.5,0
+1166,2025-03-16,Applications,High,Incident,12,15.2,0
+1167,2025-01-14,Applications,Medium,Change,12,17.1,0
+1168,2025-05-11,Security,Low,Incident,12,16.8,0
+1169,2025-04-24,FieldOps,Medium,Problem,4,9.0,0
+1170,2025-03-03,FieldOps,Low,Incident,24,7.0,1
+1171,2025-04-16,Applications,Medium,Incident,8,12.7,0
+1172,2025-03-05,Security,Low,Problem,24,14.2,1
+1173,2025-04-12,Security,Medium,Incident,12,21.9,0
+1174,2025-06-22,Network,Medium,Incident,8,14.5,0
+1175,2025-04-16,FieldOps,Medium,Incident,24,24.7,0
+1176,2025-01-20,Applications,Critical,Service Request,8,16.1,0
+1177,2025-02-27,Database,High,Incident,24,14.2,1
+1178,2025-04-22,FieldOps,Medium,Incident,48,9.6,1
+1179,2025-02-26,Network,Medium,Incident,24,15.6,1
+1180,2025-04-29,Security,Low,Service Request,4,14.1,0
+1181,2025-04-07,Applications,Medium,Service Request,12,3.4,1
+1182,2025-04-02,FieldOps,Low,Incident,24,14.1,1
+1183,2025-02-21,Database,Low,Incident,24,13.3,1
+1184,2025-02-06,Network,Critical,Service Request,4,17.0,0
+1185,2025-01-08,Network,Medium,Incident,12,13.4,0
+1186,2025-02-13,FieldOps,Medium,Incident,12,8.0,1
+1187,2025-04-08,Database,Low,Incident,8,19.9,0
+1188,2025-05-13,Network,Medium,Problem,12,13.8,0
+1189,2025-04-28,Applications,Low,Incident,12,3.2,1
+1190,2025-03-10,Network,Low,Incident,24,10.0,1
+1191,2025-06-08,Database,Low,Service Request,48,14.0,1
+1192,2025-02-14,Security,Medium,Service Request,24,9.3,1
+1193,2025-05-17,Security,Medium,Incident,12,20.4,0
+1194,2025-02-01,FieldOps,Low,Incident,8,21.7,0
+1195,2025-02-02,Database,Medium,Service Request,48,10.7,1
+1196,2025-05-06,Network,Low,Change,48,11.7,1
+1197,2025-03-08,Network,Medium,Service Request,48,13.0,1
+1198,2025-01-30,Security,Critical,Incident,24,35.0,0
+1199,2025-04-24,Security,Medium,Incident,12,16.1,0
+1200,2025-01-29,Applications,High,Problem,24,9.5,1
+1201,2025-05-11,Security,High,Service Request,12,28.6,0
+1202,2025-01-30,Applications,Medium,Incident,12,7.9,1
+1203,2025-05-17,Network,Medium,Incident,24,20.7,1
+1204,2025-06-03,Applications,High,Service Request,4,20.2,0
+1205,2025-05-10,Applications,Medium,Incident,4,10.0,0
+1206,2025-03-03,FieldOps,Low,Incident,12,18.8,0
+1207,2025-01-03,Security,High,Incident,12,20.9,0
+1208,2025-06-23,Applications,Medium,Incident,24,12.0,1
+1209,2025-03-09,Network,Low,Incident,8,7.3,1
+1210,2025-01-25,Database,Medium,Service Request,8,3.6,1
+1211,2025-06-28,Applications,High,Incident,8,20.5,0
+1212,2025-05-21,Security,Medium,Incident,4,5.9,0
+1213,2025-02-13,FieldOps,Medium,Incident,4,10.6,0
+1214,2025-06-12,Network,High,Incident,24,17.6,1
+1215,2025-02-24,FieldOps,Medium,Incident,12,12.5,0
+1216,2025-05-17,Database,Medium,Incident,24,15.3,1
+1217,2025-05-10,Applications,Medium,Service Request,48,6.8,1
+1218,2025-02-10,Applications,Medium,Incident,24,11.4,1
+1219,2025-06-21,Security,Medium,Incident,4,17.9,0
+1220,2025-03-05,Applications,Medium,Incident,8,8.2,0
+1221,2025-01-31,Network,Medium,Incident,24,20.1,1
+1222,2025-02-16,Database,Critical,Problem,12,16.1,0
+1223,2025-05-10,FieldOps,Low,Incident,24,20.2,1
+1224,2025-04-06,Database,Low,Problem,24,11.2,1
+1225,2025-03-18,Applications,Medium,Incident,48,4.9,1
+1226,2025-04-20,FieldOps,High,Service Request,48,10.6,1
+1227,2025-03-10,Security,Low,Incident,12,15.0,0
+1228,2025-02-27,Database,Low,Service Request,12,17.0,0
+1229,2025-04-16,FieldOps,Low,Incident,48,22.2,1
+1230,2025-02-13,FieldOps,Medium,Incident,12,16.4,0
+1231,2025-03-15,FieldOps,Low,Service Request,4,6.9,0
+1232,2025-02-25,Network,Medium,Service Request,24,13.3,1
+1233,2025-06-20,Database,Medium,Incident,12,9.6,1
+1234,2025-05-07,FieldOps,High,Incident,24,22.6,1
+1235,2025-06-11,Database,Medium,Incident,24,9.0,1
+1236,2025-01-30,FieldOps,Low,Service Request,12,2.1,1
+1237,2025-03-12,Security,Medium,Incident,48,25.6,1
+1238,2025-04-28,Security,Critical,Incident,24,22.9,1
+1239,2025-02-24,Security,Medium,Service Request,24,17.1,1
+1240,2025-03-08,Applications,Critical,Problem,8,27.7,0
+1241,2025-05-21,FieldOps,High,Service Request,12,34.2,0
+1242,2025-01-03,Applications,Low,Service Request,24,14.2,1
+1243,2025-01-26,Database,Medium,Service Request,4,15.0,0
+1244,2025-02-26,Applications,Low,Incident,8,13.0,0
+1245,2025-05-06,Database,Medium,Incident,24,12.7,1
+1246,2025-06-01,Database,Low,Service Request,12,12.2,0
+1247,2025-02-22,Database,Low,Incident,12,12.7,0
+1248,2025-02-12,Applications,High,Problem,8,11.3,0
+1249,2025-02-18,FieldOps,Low,Incident,12,13.1,0
+1250,2025-02-11,Applications,High,Incident,24,18.9,1
+1251,2025-01-11,FieldOps,Low,Problem,8,15.7,0
+1252,2025-04-13,FieldOps,Low,Service Request,4,15.3,0
+1253,2025-04-08,Database,High,Incident,24,8.4,1
+1254,2025-05-26,Applications,Medium,Service Request,48,19.7,1
+1255,2025-03-26,FieldOps,Medium,Service Request,24,22.8,1
+1256,2025-04-10,Security,Low,Incident,8,13.5,0
+1257,2025-04-14,FieldOps,Medium,Incident,12,18.4,0
+1258,2025-06-29,Security,Medium,Service Request,24,15.3,1
+1259,2025-02-15,Applications,Medium,Problem,8,17.2,0
+1260,2025-02-13,Applications,Medium,Incident,24,8.9,1
+1261,2025-01-22,Applications,Critical,Problem,12,30.4,0
+1262,2025-04-24,FieldOps,Medium,Problem,8,20.0,0
+1263,2025-05-05,Network,High,Incident,24,19.4,1
+1264,2025-05-04,FieldOps,Medium,Service Request,24,14.9,1
+1265,2025-01-30,FieldOps,Medium,Incident,24,6.8,1
+1266,2025-01-08,Database,Low,Incident,8,16.2,0
+1267,2025-04-08,Database,Medium,Service Request,4,6.5,0
+1268,2025-02-26,FieldOps,High,Problem,12,26.5,0
+1269,2025-04-21,Security,Low,Service Request,12,9.7,1
+1270,2025-03-14,Database,Low,Incident,8,4.4,1
+1271,2025-04-25,FieldOps,Low,Incident,4,13.0,0
+1272,2025-01-20,Network,Low,Incident,4,14.7,0
+1273,2025-01-25,Security,High,Incident,48,12.9,1
+1274,2025-01-19,Applications,High,Incident,24,27.1,0
+1275,2025-01-05,FieldOps,Medium,Incident,48,19.7,1
+1276,2025-03-16,FieldOps,Low,Incident,8,13.8,0
+1277,2025-05-08,Security,Medium,Service Request,48,13.9,1
+1278,2025-03-13,Database,Medium,Incident,8,12.3,0
+1279,2025-06-04,Database,Critical,Incident,12,25.3,0
+1280,2025-02-09,Database,Medium,Incident,24,19.3,1
+1281,2025-01-26,Applications,Low,Incident,12,8.4,1
+1282,2025-01-27,Security,Medium,Incident,12,11.4,1
+1283,2025-03-24,Security,Critical,Incident,8,23.0,0
+1284,2025-05-08,Database,Medium,Problem,8,22.4,0
+1285,2025-06-27,Database,Medium,Incident,24,7.4,1
+1286,2025-06-19,Network,Low,Service Request,24,14.6,1
+1287,2025-06-06,Network,Medium,Change,24,12.2,1
+1288,2025-06-16,FieldOps,High,Service Request,12,6.6,1
+1289,2025-06-18,FieldOps,Low,Incident,24,10.6,1
+1290,2025-02-02,Security,Medium,Problem,4,20.9,0
+1291,2025-04-07,Security,Low,Incident,8,24.1,0
+1292,2025-04-21,Applications,Low,Incident,48,5.2,1
+1293,2025-01-16,Applications,Low,Problem,4,1.0,1
+1294,2025-01-23,Network,Low,Service Request,24,4.8,1
+1295,2025-05-15,FieldOps,Medium,Incident,8,22.7,0
+1296,2025-01-26,Network,Low,Incident,24,2.8,1
+1297,2025-04-06,Network,Low,Incident,24,16.0,1
+1298,2025-01-12,FieldOps,High,Incident,8,29.0,0
+1299,2025-03-13,Applications,Medium,Incident,8,14.2,0
+1300,2025-05-13,FieldOps,Medium,Change,24,11.7,1
+1301,2025-04-16,Database,Medium,Problem,12,14.7,0
+1302,2025-04-27,Database,Medium,Problem,8,17.9,0
+1303,2025-06-26,Database,Low,Incident,24,14.2,1
+1304,2025-01-26,Security,High,Service Request,8,35.6,0
+1305,2025-05-13,Applications,Low,Problem,24,9.9,1
+1306,2025-01-22,Applications,Medium,Problem,12,6.3,1
+1307,2025-01-13,Security,Low,Incident,8,5.7,1
+1308,2025-06-05,Network,Medium,Incident,24,3.9,1
+1309,2025-06-10,Database,Medium,Incident,12,15.5,0
+1310,2025-04-17,Database,Medium,Incident,8,13.1,0
+1311,2025-01-23,Network,Low,Service Request,12,10.1,1
+1312,2025-04-07,FieldOps,Medium,Service Request,8,12.2,0
+1313,2025-01-18,FieldOps,Critical,Incident,8,13.0,0
+1314,2025-04-27,Applications,High,Incident,8,20.6,0
+1315,2025-01-30,Security,Low,Incident,12,1.0,1
+1316,2025-01-26,Applications,Medium,Incident,8,9.0,0
+1317,2025-05-24,FieldOps,High,Incident,24,25.6,0
+1318,2025-02-08,Network,Medium,Service Request,24,7.7,1
+1319,2025-06-10,Applications,Medium,Incident,12,15.3,0
+1320,2025-06-03,Database,High,Service Request,24,12.2,1
+1321,2025-06-25,Database,High,Incident,24,14.7,1
+1322,2025-06-15,Network,Medium,Incident,12,14.8,0
+1323,2025-05-10,FieldOps,Medium,Incident,24,7.6,1
+1324,2025-04-23,Database,Low,Problem,8,15.6,0
+1325,2025-05-14,Database,Medium,Incident,24,14.7,1
+1326,2025-02-15,Security,Low,Service Request,4,21.0,0
+1327,2025-02-19,Applications,Low,Incident,12,11.9,1
+1328,2025-06-15,FieldOps,Medium,Problem,24,8.9,1
+1329,2025-04-16,Applications,Low,Service Request,4,18.6,0
+1330,2025-05-26,FieldOps,Medium,Incident,8,9.4,0
+1331,2025-06-04,Database,Medium,Service Request,12,13.1,0
+1332,2025-06-18,Security,Medium,Incident,12,23.2,0
+1333,2025-03-13,Applications,Medium,Problem,24,3.3,1
+1334,2025-03-15,Database,High,Incident,24,28.4,0
+1335,2025-01-17,FieldOps,Low,Incident,8,7.0,1
+1336,2025-06-06,Applications,High,Service Request,4,13.5,0
+1337,2025-03-11,Applications,High,Service Request,24,18.4,1
+1338,2025-05-30,Database,Medium,Incident,12,14.2,0
+1339,2025-01-06,Applications,Medium,Service Request,24,17.4,1
+1340,2025-01-26,Security,High,Incident,8,7.6,1
+1341,2025-06-16,Security,Low,Incident,12,18.1,0
+1342,2025-05-20,Database,Medium,Service Request,12,19.0,0
+1343,2025-04-09,FieldOps,Medium,Incident,12,22.0,0
+1344,2025-05-22,Database,Low,Incident,12,4.4,1
+1345,2025-01-22,Security,High,Service Request,12,8.7,1
+1346,2025-02-20,Network,High,Incident,12,12.9,0
+1347,2025-05-31,Network,High,Service Request,4,6.8,0
+1348,2025-06-25,Applications,Low,Incident,4,3.1,1
+1349,2025-04-14,Applications,Low,Incident,12,9.3,1
+1350,2025-06-27,Network,Medium,Incident,12,13.1,0
+1351,2025-03-30,Security,Low,Service Request,12,29.7,0
+1352,2025-05-21,Applications,Medium,Service Request,12,16.1,0
+1353,2025-05-18,Database,Medium,Incident,24,24.5,0
+1354,2025-01-09,Database,Medium,Incident,24,14.1,1
+1355,2025-03-20,Security,Medium,Problem,8,20.6,0
+1356,2025-02-21,Applications,Medium,Incident,8,12.4,0
+1357,2025-05-10,Database,Low,Problem,8,24.9,0
+1358,2025-06-02,Applications,Low,Incident,24,8.0,1
+1359,2025-01-13,Applications,Medium,Service Request,12,10.3,1
+1360,2025-02-20,Database,Medium,Incident,8,19.0,0
+1361,2025-02-03,Network,High,Problem,24,16.2,1
+1362,2025-02-04,Database,High,Service Request,8,14.9,0
+1363,2025-05-11,Security,Critical,Incident,12,34.9,0
+1364,2025-04-30,FieldOps,Low,Incident,12,12.8,0
+1365,2025-03-11,Database,Low,Service Request,24,11.8,1
+1366,2025-06-25,Applications,Low,Service Request,4,12.0,0
+1367,2025-05-27,Applications,Medium,Incident,24,4.0,1
+1368,2025-03-08,Database,Medium,Incident,24,5.2,1
+1369,2025-04-13,FieldOps,High,Service Request,8,28.0,0
+1370,2025-03-14,Database,Medium,Incident,8,10.5,0
+1371,2025-04-26,FieldOps,High,Service Request,12,18.5,0
+1372,2025-05-13,FieldOps,High,Incident,24,32.1,0
+1373,2025-03-08,Security,Low,Problem,24,13.5,1
+1374,2025-05-19,Applications,Medium,Problem,12,12.1,0
+1375,2025-05-01,Applications,Medium,Change,24,17.9,1
+1376,2025-04-04,FieldOps,Low,Incident,4,9.9,0
+1377,2025-05-09,Applications,Medium,Problem,4,19.6,0
+1378,2025-04-01,Network,Medium,Incident,48,16.2,1
+1379,2025-04-02,FieldOps,Low,Incident,24,22.5,1
+1380,2025-03-04,Applications,Medium,Incident,12,9.6,1
+1381,2025-01-29,Network,Medium,Incident,24,18.6,1
+1382,2025-01-12,Security,Low,Problem,48,17.1,1
+1383,2025-03-18,Applications,Medium,Incident,24,6.2,1
+1384,2025-02-10,Network,Low,Service Request,24,1.0,1
+1385,2025-05-10,Database,Medium,Service Request,24,9.8,1
+1386,2025-02-06,Database,Low,Service Request,8,13.4,0
+1387,2025-06-22,Network,High,Incident,24,17.6,1
+1388,2025-06-25,FieldOps,Medium,Incident,8,15.2,0
+1389,2025-01-24,FieldOps,Low,Service Request,24,12.7,1
+1390,2025-04-09,Applications,Medium,Incident,12,12.5,0
+1391,2025-05-30,Database,Medium,Incident,24,20.3,1
+1392,2025-04-10,FieldOps,Medium,Incident,12,6.6,1
+1393,2025-05-19,FieldOps,Medium,Incident,4,17.3,0
+1394,2025-02-27,Database,Medium,Problem,8,9.7,0
+1395,2025-06-23,Security,Low,Incident,48,8.9,1
+1396,2025-01-29,FieldOps,Low,Incident,48,19.1,1
+1397,2025-06-12,Network,Medium,Incident,12,7.3,1
+1398,2025-05-23,Applications,Medium,Incident,48,12.5,1
+1399,2025-03-01,FieldOps,Medium,Incident,24,27.8,0
+1400,2025-04-05,FieldOps,High,Incident,24,26.0,0
